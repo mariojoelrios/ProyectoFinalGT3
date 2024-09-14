@@ -1,0 +1,32 @@
+[
+    {
+        "imagen": "",
+        "Nombre": "Interruptores Termomagnéticos",
+        "Descripcion": "Dispositivos de protección que cortan la corriente en caso de sobrecarga o cortocircuito, proteguiendo asi el sistema y los aparatos en el"
+    },
+    {
+        "imagen": "",
+        "Nombre": "Interruptores Diferencial",
+        "Descripcion": "Dispositivos de protección que cortan la corriente en caso de sobrecarga o cortocircuito, proteguiendo asi al individuo"
+    },
+    {
+        "imagen": "",
+        "Nombre": "Multimetro",
+        "Descripcion": "Instrumento de medición que combina varias funciones, como medir voltaje, corriente y resistencia, para diagnosticar y reparar circuitos eléctricos."
+    },
+    {
+        "imagen": "",
+        "Nombre": "Cajas de instalacion",
+        "Descripcion": "Contenedores instalados en la pared para alojar interruptores, tomas y otros dispositivos eléctricos."
+    },
+    {
+        "imagen": "",
+        "Nombre": "Caño PVC",
+        "Descripcion": "Tubo de plástico resistente a la corrosión, utilizado para proteger y encauzar cables eléctricos en instalaciones."
+    },
+    {
+        "imagen": "",
+        "Nombre": "Cable Multifilar",
+        "Descripcion": "Cable que cuenta con varios conductores"
+    }
+]
