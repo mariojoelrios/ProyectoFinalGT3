@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "nombre": "Aparatos de Protección Personal",
+      "descripcion": "Equipos diseñados para proteger al usuario de riesgos eléctricos durante su trabajo.",
+      "imagen": "/img/proteccionPersonal.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Aparatos de Protección Eléctrica",
+      "descripcion": "Dispositivos que protegen los sistemas eléctricos contra sobrecargas y cortocircuitos.",
+      "imagen": "/img/proteccionElectrica.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Conductores",
+      "descripcion": "Componentes utilizados para la transmisión de corriente eléctrica.",
+      "imagen": "/img/conductores.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Aparatos de Medición",
+      "descripcion": "Instrumentos utilizados para medir parámetros eléctricos como voltaje, corriente y resistencia.",
+      "imagen": "/img/aparatosMedicion.jpg"
+    }
+  ]
+  
