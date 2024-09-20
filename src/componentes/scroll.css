@@ -1,0 +1,17 @@
+.button {
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    top: 90%;
+    background-color: black;
+}
+
+.button .icono:hover{
+    background-color: rgb(69, 225, 69);
+    color: black;
+}
+
+.icono {
+    display: flex;
+    font-size: 20px;
+}

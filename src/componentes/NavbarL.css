@@ -1,7 +1,6 @@
 * {
     padding: 0;
     margin: 0;
-    box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -9,7 +8,13 @@
     background: rgb(0, 0, 0);
     position: relative;
     z-index: 1000;
-    height: 60px;
+    height: 70px;
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
 }
 
 .Link {
@@ -71,14 +76,20 @@
 }
 
 
-@media (max-width: 900px) {
+@media (max-width: 1000px) {
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 20px;
+    }
+
     .cosas {
         z-index: 10;
         display: none;
         flex-direction: column;
         width: 100vw;
         text-align: center;
-        background-color: rgba(0, 0, 0, 0.741);
+        background-color: rgba(124, 117, 202, 0.741);
     }
 
     .imagenLogo {
@@ -96,6 +107,7 @@
 
     .Link {
         margin: 40px;
+        color: black;
     }
 
     .cosas.true {
@@ -117,4 +129,38 @@
     .menu-respons.true .bar:nth-child(3) {
         transform: rotate(-40deg) translate(-2.5px, -1px);
     }
+}
+
+@media (min-width: 1366px){
+    .navbar {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        width: 100dvw;
+    }
+
+    .Link {
+        margin: 120px;
+        margin-top: 5px;
+        padding: 10px;
+        border-radius: 10px;
+        text-decoration: none;
+        color: white
+    }
+    
+    .Link:hover {
+        background: yellow;
+        color: rgb(0, 0, 0);
+        transition: 0.6s;
+        font-size: 17px;
+    }
+    
+    .cosas {
+        padding: 20px;
+    }
+    
+    .cosas2 {
+        margin-right: 20px;
+    }    
 }

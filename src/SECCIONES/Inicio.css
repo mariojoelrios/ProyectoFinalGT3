@@ -25,6 +25,41 @@
     width: 100%;
 }
 
+.Section_2 {
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.parrafo {
+    font-size: 25px;
+    font-family: "SUSE";
+    text-align: center;
+
+}
+
+.empresas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.empresas img {
+    margin-bottom: 20px;
+    height: 150px;
+    width: 150px;
+    opacity: 0.3;
+    transition: 0.5s ease all;
+    border-radius: 0;
+}
+
+.empresas img:hover {
+    opacity: 1;
+}
+
 h1 {
     text-align: center;
     margin-top: 50px;
@@ -45,7 +80,7 @@ h1 {
     justify-content: center;
     align-items: center;
     width: 75%;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .productos h2 {
@@ -56,7 +91,89 @@ h1 {
     font-size: 40px;
 }
 
-@media (max-width: 900px) {
+h2 {
+    text-align: left;
+    font-family: "Oswald";
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+.parrafo1 {
+    font-size: 25px;
+    font-family: "SUSE";
+    margin-left: 10px;
+}
+
+.centrado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.form-contenedor {
+    background-color: #666666;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+    color: white;
+}
+
+.form-contenedor h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.form-grupo {
+    margin-bottom: 15px;
+}
+
+.form-grupo label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-grupo input,
+.form-grupo textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.form-grupo input:focus {
+    box-shadow: rgb(1, 255, 1) 0px 10px 30px -10px;
+}
+
+.form-grupo textarea:focus {
+    box-shadow: rgb(1, 255, 1) 0px 10px 30px -10px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #5cdf60;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    opacity: 0.8;
+    transition: 0.7s all ease;
+}
+
+button:hover {
+    background-color: #4de954;
+    opacity: 10;
+    box-shadow: rgb(21, 255, 0) 0px 10px 30px -10px;
+    color: black;
+}
+
+@media (max-width: 800px) {
     .videoContainer video {
         display: flex;
         height: 100%;

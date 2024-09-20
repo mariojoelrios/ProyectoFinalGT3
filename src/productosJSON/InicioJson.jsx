@@ -1,7 +1,7 @@
-import { InicioJSON } from "./InicioProducts";
+import { InicioJSON } from "./InicioProducts"
 import productosInicio from "../productoIni.json"
 import "./inicioproductos.css"
-import { Link } from "react-router-dom";
+import { Link } from "react-router-dom"
 
 export function Iniciojson() {
     return (

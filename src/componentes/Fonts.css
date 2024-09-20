@@ -1,24 +1,24 @@
 @font-face {
-    font-family: 'Fascinate';
+    font-family: "Fascinate";
     src: url('../assets/Fascinate.ttf');
 }
 
 @font-face {
-    font-family: 'Nerko';
+    font-family: "Nerko";
     src: url('../assets/NerkoOne.ttf');
 }
 
 @font-face {
-    font-family: 'Oswald';
+    font-family: "Oswald";
     src: url('../assets/Oswald.ttf');
 }
 
 @font-face {
-    font-family: 'Guerrilla';
+    font-family: "Guerrilla";
     src: url('../assets/ProtestGuerrilla.ttf');
 }
 
 @font-face {
-    font-family: 'SUSE';
+    font-family: "SUSE";
     src: url('../assets/SUSE.ttf');
 }

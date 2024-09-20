@@ -1,4 +1,15 @@
-.products{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+@media (min-width: 1366px) {
+    .products {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        gap: 5px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .products {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 10px;
+    }
 }

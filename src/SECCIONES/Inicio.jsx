@@ -1,6 +1,7 @@
-import "./Inicio.css";
-import "../componentes/Fonts.css";
-import { Section_Inicio } from "./Seccion_Inicio";
+import "./Inicio.css"
+import "../componentes/Fonts.css"
+import { Section_Inicio } from "./Seccion_Inicio"
+import { Seccion_Inicio2 } from "./Seccion_Inicio2"
 
 export function Inicio() {
     return (
@@ -14,6 +15,7 @@ export function Inicio() {
                 </div>
             </div>
             <Section_Inicio />
+            <Seccion_Inicio2 />
         </>
     );
 }

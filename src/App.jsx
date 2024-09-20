@@ -5,6 +5,8 @@ import { Queries } from "./SECCIONES/Queries"
 import { Inicio } from "./SECCIONES/Inicio"
 import { Products } from "./SECCIONES/Products"
 import { Error_404 } from "./SECCIONES/ERROR_404"
+import { Footer } from "./componentes/Footer"
+import { Scroll } from "./componentes/scroll"
 
 function App() {
 
@@ -19,6 +21,8 @@ function App() {
           <Route path="/Queries" element={<Queries />} />
           <Route path="*" element={<Error_404 />} />
         </Routes>
+        <Footer />
+        <Scroll />
       </BrowserRouter>
     </>
   )

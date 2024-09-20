@@ -1,0 +1,33 @@
+.About h2 {
+    font-size: 40px;
+    font-family: "Nerko";
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 50px;
+}
+
+.dos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+}
+
+.centradoParrafito {
+    width: 80%;
+}
+
+.About p {
+    margin-top: 40px;
+    font-size: 20px;
+}
+
+
+.imagenContainer {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(58, 57, 57);
+}
