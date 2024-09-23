@@ -1,0 +1,266 @@
+[
+    {
+        "id": 1,
+        "nombre": "Termomagnética Bipolar 10A",
+        "descripcion": "Protección para circuitos eléctricos contra sobrecargas y cortocircuitos.",
+        "imagen": "/products/termoBipolar.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Termomagnética Tetrapolar 63A",
+        "descripcion": "Dispositivo para proteger circuitos trifásicos contra sobrecargas.",
+        "imagen": "/products/termoTetra.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Termomagnética Tripolar 63A",
+        "descripcion": "Protección avanzada para sistemas trifásicos de alto consumo.",
+        "imagen": "/products/temotripolar.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Interruptor Diferencial 40A 4P",
+        "descripcion": "Disyuntor diferencial para protección de personas contra descargas eléctricas.",
+        "imagen": "/products/diferencial_40A.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Interruptor Diferencial 63A 2P",
+        "descripcion": "Disyuntor diferencial de alta capacidad para circuitos industriales.",
+        "imagen": "/products/diferencial_63A.png"
+    },
+    {
+        "id": 6,
+        "nombre": "Guantes Dieléctricos",
+        "descripcion": "Guantes de protección contra descargas eléctricas para trabajos de mantenimiento.",
+        "imagen": "/products/guanteDielectrico.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Casco de Seguridad",
+        "descripcion": "Casco dieléctrico para proteger la cabeza de golpes y descargas eléctricas.",
+        "imagen": "/products/cascos.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Transformador Trifásico 5kVA",
+        "descripcion": "Transformador industrial para distribución de energía en plantas.",
+        "imagen": "/products/trafo_5kva.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Transformador Monofásico 50kVA",
+        "descripcion": "Transformador monofásico para aplicaciones domésticas o comerciales.",
+        "imagen": "/products/trafo50Mono.png"
+    },
+    {
+        "id": 10,
+        "nombre": "Capacitor de 2F",
+        "descripcion": "Capacitor para corrección del factor de potencia en instalaciones industriales.",
+        "imagen": "/products/capasitor_2F.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Capacitor de 50uF",
+        "descripcion": "Capacitor para arranque de motores eléctricos monofásicos.",
+        "imagen": "/products/capacitor_50uF.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "Resistencia Bobinada 10 Ohms",
+        "descripcion": "Resistencia bobinada de alta potencia para aplicaciones industriales.",
+        "imagen": "/products/resistencia_10ohms.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "Resistencia de Potencia 50W",
+        "descripcion": "Resistencia de potencia para disipar energía en circuitos eléctricos.",
+        "imagen": "/products/resistenciaPotencia_50w.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "Disyuntor 80A",
+        "descripcion": "Protección contra cortocircuitos y sobrecargas en instalaciones eléctricas de alta capacidad.",
+        "imagen": "/products/diferencial_80a.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "Fusible NH 16A",
+        "descripcion": "Fusible de alto amperaje para protección en instalaciones eléctricas industriales.",
+        "imagen": "/products/fusible16A.jpg"
+    },
+    {
+        "id": 16,
+        "nombre": "Contacto Estanco IP67",
+        "descripcion": "Conector estanco de alta protección contra el agua y el polvo.",
+        "imagen": "/products/contactoEstanco.jpg"
+    },
+    {
+        "id": 17,
+        "nombre": "Pararrayos Industrial",
+        "descripcion": "Dispositivo para proteger edificios y estructuras contra descargas atmosféricas.",
+        "imagen": "/products/paraRayos.jpg"
+    },
+    {
+        "id": 18,
+        "nombre": "Batería Estacionaria 12V 100Ah",
+        "descripcion": "Batería para sistemas de respaldo y energía solar.",
+        "imagen": "/products/bateriaEstacionaria.jpg"
+    },
+    {
+        "id": 19,
+        "nombre": "Medidor Electrico",
+        "descripcion": "Instrumento para medir el consumo de energía en instalaciones eléctricas.",
+        "imagen": "/products/medidorElectrico.jpg"
+    },
+    {
+        "id": 20,
+        "nombre": "Protector de Sobretensión",
+        "descripcion": "Dispositivo para proteger equipos eléctricos contra picos de voltaje.",
+        "imagen": "/products/protectorSobreTension.png"
+    },
+    {
+        "id": 21,
+        "nombre": "Sensor de Proximidad 24V",
+        "descripcion": "Dispositivo para detectar la presencia de objetos en instalaciones industriales.",
+        "imagen": "/products/sensorProxi.jpg"
+    },
+    {
+        "id": 22,
+        "nombre": "Fotocelula",
+        "descripcion": "Sensor que activa circuitos según la luz ambiental, usado en iluminación automática.",
+        "imagen": "/products/fotocelula.jpg"
+    },
+    {
+        "id": 23,
+        "nombre": "Transformador de Corriente 150A",
+        "descripcion": "Dispositivo para medir corriente en instalaciones industriales.",
+        "imagen": "/products/trafo_150A.jpg"
+    },
+    {
+        "id": 24,
+        "nombre": "Aislador de Porcelana",
+        "descripcion": "Componente aislante para líneas eléctricas aéreas.",
+        "imagen": "/products/aisladorPorcelana.jpg"
+    },
+    {
+        "id": 25,
+        "nombre": "Barra Colectora de Cobre",
+        "descripcion": "Conductor de alta capacidad para distribución de energía.",
+        "imagen": "/products/barraColectora.jpg"
+    },
+    {
+        "id": 26,
+        "nombre": "Pinza Cocodrilo",
+        "descripcion": "Herramienta para realizar conexiones eléctricas de manera rápida y segura.",
+        "imagen": "/products/pinzaCocodrilo.jpg"
+    },
+    {
+        "id": 27,
+        "nombre": "Osciloscopio",
+        "descripcion": "Instrumento que muestra y analiza señales eléctricas en forma de ondas.",
+        "imagen": "/products/osciloscopio.jpg"
+    },
+    {
+        "id": 28,
+        "nombre": "Bota Dieléctrica",
+        "descripcion": "Calzado especializado para proteger contra descargas eléctricas.",
+        "imagen": "/products/botasDielectricas.jpg"
+    },
+    {
+        "id": 29,
+        "nombre": "Multímetro Digital",
+        "descripcion": "Instrumento para medir voltaje, corriente y resistencia en circuitos eléctricos.",
+        "imagen": "/products/multimetro.jpg"
+    },
+    {
+        "id": 30,
+        "nombre": "Anemómetro",
+        "descripcion": "Dispositivo para medir la velocidad del viento.",
+        "imagen": "/products/anemometro.jpg"
+    },
+    {
+        "id": 31,
+        "nombre": "Cable de Media Tensión 35kV",
+        "descripcion": "Cable utilizado en la transmisión de energía de media tensión.",
+        "imagen": "/products/cableMedia.jpg"
+    },
+    {
+        "id": 32,
+        "nombre": "Relé Térmico 10A",
+        "descripcion": "Dispositivo de protección contra sobrecalentamiento para motores eléctricos.",
+        "imagen": "/products/releTermico_10A.jpg"
+    },
+    {
+        "id": 33,
+        "nombre": "Cortacircuito Fusible 200A",
+        "descripcion": "Cortacircuito con fusible para protección de redes eléctricas de alta potencia.",
+        "imagen": "/products/ccFusible.jpg"
+    },
+    {
+        "id": 34,
+        "nombre": "Luxómetro",
+        "descripcion": "Instrumento que mide la intensidad de la luz.",
+        "imagen": "/products/luxometro.jpg"
+    },
+    {
+        "id": 35,
+        "nombre": "Cable de Potencia 4mm²",
+        "descripcion": "Cable de alta capacidad para instalaciones eléctricas.",
+        "imagen": "/products/cable4mm2.jpg"
+    },
+    {
+        "id": 36,
+        "nombre": "Caño PVC 50mm²",
+        "descripcion": "Caño de PVC para conducción de cables eléctricos.",
+        "imagen": "/products/caño50pvc.jpg"
+    },
+    {
+        "id": 37,
+        "nombre": "Cable UTP",
+        "descripcion": "Cable de par trenzado para redes de alta velocidad y transmisión de datos.",
+        "imagen": "/products/cableUTP.jpg"
+    },
+    {
+        "id": 38,
+        "nombre": "Caño Conduit Galvanizado 3/4'",
+        "descripcion": "Caño galvanizado para protección de cables eléctricos.",
+        "imagen": "/products/cañoGalva.jpg"
+    },
+    {
+        "id": 39,
+        "nombre": "Cable Canal 40x40mm",
+        "descripcion": "Canaleta para instalación y protección de cables eléctricos.",
+        "imagen": "/products/cableCanal.jpg"
+    },
+    {
+        "id": 40,
+        "nombre": "Conmutador de Seguridad",
+        "descripcion": "Dispositivo que permite desconectar el circuito de forma manual.",
+        "imagen": "/products/interruptorSeguridad.jpg"
+    },
+    {
+        "id": 41,
+        "nombre": "Galvanómetro Analógico",
+        "descripcion": "Instrumento para medir corriente eléctrica en circuitos.",
+        "imagen": "/products/galvanometro.jpg"
+    },
+    {
+        "id": 42,
+        "nombre": "Capacímetro Digital",
+        "descripcion": "Instrumento para medir la capacitancia de capacitores.",
+        "imagen": "/products/capacimetro.jpg"
+    },
+    {
+        "id": 43,
+        "nombre": "Motor Trifásico",
+        "descripcion": "Motor eléctrico diseñado para funcionar con corriente trifásica, ideal para aplicaciones industriales.",
+        "imagen": "/products/motorTrifasico.jpg"
+    },
+    {
+        "id": 44,
+        "nombre": "Transistor NPN",
+        "descripcion": "Dispositivo semiconductor utilizado para amplificación y conmutación.",
+        "imagen": "/products/transistor.jpg"
+    }
+]

@@ -49,15 +49,15 @@ export function Seccion_Inicio2() {
                     <h2>Formulario de Contacto</h2>
                     <form action="https://formspree.io/f/mvgpnjjn" method="POST">
                         <div className="form-grupo">
-                            <label for="nombre">Nombre:</label>
+                            <label htmlFor="nombre">Nombre:</label>
                             <input type="text" id="nombre" name="nombre" required />
                         </div>
                         <div className="form-grupo">
-                            <label for="email">Email:</label>
+                            <label htmlFor="email">Email:</label>
                             <input type="email" id="email" name="email" required />
                         </div>
                         <div className="form-grupo">
-                            <label for="mensaje">Mensaje:</label>
+                            <label htmlFor="mensaje">Mensaje:</label>
                             <textarea id="mensaje" name="mensaje" rows="5" required></textarea>
                         </div>
                         <button type="submit">Enviar</button>

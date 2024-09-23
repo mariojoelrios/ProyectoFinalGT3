@@ -1,9 +1,9 @@
-export function Products(){
+import { ProductoReal } from "../productosJSON/ProductoReal"
+
+export function Products() {
     return (
         <>
-            <h1>
-                mis poductos deaaaa
-            </h1>
+            <ProductoReal />
         </>
     )
 }
