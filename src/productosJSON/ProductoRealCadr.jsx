@@ -3,7 +3,7 @@ import "./productoRealCard.css"
 export function ProductoRealCard({ img, nombre, desc }) {
     return (
         <>
-            <div className="productos">
+            <div className="producto_cuerpo">
                 <div className="productos-img">
                     <img src={img} alt={nombre} />
                 </div>

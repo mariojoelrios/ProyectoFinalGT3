@@ -17,7 +17,7 @@ export function Section_Inicio() {
                         </p>
                     </div>
                 </div>
-                <div className="productos">
+                <div className="producto">
                     <h2>Productos</h2>
                 </div>
                 <Iniciojson />
