@@ -7,7 +7,7 @@ Por eso nuestro sitio web esta hecho pensado para que cualquer persona pueda uti
 # TECNOLOGIAS UTILIZADAS 
 
 * VITE REACT ( para hacer mas escalable nuestro codigo )
-* REACT BOOTSTRAP ( para darle la responsibilidad y adaptabilidad a las pantallas de nustros usuarios )
+* REACT-ROUTER-DOM 
 
 ***
 

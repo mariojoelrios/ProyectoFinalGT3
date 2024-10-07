@@ -1,5 +1,5 @@
 import { InicioJSON } from "./InicioProducts"
-import productosInicio from "../productoIni.json"
+import productosInicio from "../../productoIni.json"
 import "./inicioproductos.css"
 import { Link } from "react-router-dom"
 

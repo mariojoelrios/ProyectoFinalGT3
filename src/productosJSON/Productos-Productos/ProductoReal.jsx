@@ -1,5 +1,5 @@
 import { ProductoRealCard } from "./ProductoRealCadr"
-import productosreal from "../productosReales.json"
+import productosreal from "../../productosReales.json"
 import "./productoReal.css"
 
 export function ProductoReal() {
