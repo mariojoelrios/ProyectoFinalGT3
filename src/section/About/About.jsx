@@ -1,12 +1,12 @@
-import "../SECCIONES/about.css"
-import "../SECCIONES/Inicio.css"
+import "../About/about.css"
+import "../Inicio/Inicio.css"
 
 export function About() {
     return (
         <>
             <div className="centrar">
                 <div className="imagenContainer">
-                   <img src="/img/imagenAbout.png" alt="imagen" />
+                    <img src="/img/imagenAbout.png" alt="imagen" />
                 </div>
             </div>
             <section className="About">

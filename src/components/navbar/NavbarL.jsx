@@ -1,14 +1,14 @@
 import { useState } from "react"
 import { Link } from "react-router-dom"
-import "../componentes/NavbarL.css"
+import "../navbar/NavbarL.css"
 
-export function Navbar () {
+export function Navbar() {
     const [menuOpen, setMenuOpen] = useState(false)
 
     const responsMenu = () => {
         setMenuOpen(!menuOpen)
     }
-    
+
     return (
         <>
             <nav className="navbar">

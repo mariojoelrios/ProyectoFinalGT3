@@ -4,18 +4,27 @@ import "./productoReal.css"
 
 export function ProductoReal() {
     return (
-        <div className="products">
-            {
-                productosreal.map((element, key) => {
-                    return (<ProductoRealCard
-                        key={key}
-                        id={element.id}
-                        nombre={element.nombre}
-                        desc={element.descripcion}
-                        img={element.imagen}
-                    />)
-                })
-            }
-        </div>
+        <>
+            <div className="contenedor">
+                <div className="video-cont">
+                    <video className="video">
+                        <source />
+                    </video>
+                </div>
+            </div>
+            <div className="products">
+                {
+                    productosreal.map((element, key) => {
+                        return (<ProductoRealCard
+                            key={key}
+                            id={element.id}
+                            nombre={element.nombre}
+                            desc={element.descripcion}
+                            img={element.imagen}
+                        />)
+                    })
+                }
+            </div>
+        </>
     )
 }

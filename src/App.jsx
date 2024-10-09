@@ -1,12 +1,12 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom"
-import { Navbar } from "./componentes/NavbarL"
-import { About } from "./SECCIONES/About"
-import { Queries } from "./SECCIONES/Queries"
-import { Inicio } from "./SECCIONES/Inicio"
-import { Products } from "./SECCIONES/Products"
-import { Error_404 } from "./SECCIONES/ERROR_404"
-import { Footer } from "./componentes/Footer"
-import { Scroll } from "./componentes/scroll"
+import { Navbar } from "./components/navbar/NavbarL"
+import { About } from "./section/About/About"
+import { Queries } from "./section/Queries/Queries"
+import { Inicio } from "./section/Inicio/Inicio"
+import { Products } from "./section/Productos/Products"
+import { Error_404 } from "./section/Error404/ERROR_404"
+import { Footer } from "./components/footer/Footer"
+import { Scroll } from "./components/scroll/scroll"
 
 function App() {
 

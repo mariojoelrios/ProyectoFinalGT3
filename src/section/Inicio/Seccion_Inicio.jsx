@@ -1,5 +1,5 @@
 import "./Inicio.css"
-import { Iniciojson } from "../../productosJSON/InicioJson"
+import { Iniciojson } from "../../productosJSON/Productos-Inicio/InicioJson"
 
 export function Section_Inicio() {
     return (

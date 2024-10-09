@@ -1,5 +1,5 @@
 import "./Inicio.css"
-import "../componentes/Fonts.css"
+import "../../components/Fonts.css"
 import { Section_Inicio } from "./Seccion_Inicio"
 import { Seccion_Inicio2 } from "./Seccion_Inicio2"
 
