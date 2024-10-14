@@ -3,7 +3,8 @@
     width: 40px;
     border-radius: 100%;
     top: 90%;
-    background-color: black;
+    background-color: rgb(97, 248, 125);
+    z-index: 100;
 }
 
 .button .icono:hover{

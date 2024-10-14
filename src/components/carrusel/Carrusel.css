@@ -1,0 +1,29 @@
+.content {
+    background-color: rgb(94, 91, 91);
+}
+
+.contenedor {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+img {
+    margin-top: 10px;
+    height: 450px;
+    width: 800px;
+    transition: 1s;
+}
+ 
+.contenedor1 {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+button {
+    width: 50px;
+    color: black;
+    background-color: rgb(85, 205, 212);
+    margin: 15px;
+}
