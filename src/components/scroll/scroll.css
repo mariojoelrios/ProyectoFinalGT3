@@ -1,4 +1,8 @@
-.button {
+.button15 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
     height: 40px;
     width: 40px;
     border-radius: 100%;
@@ -7,12 +11,13 @@
     z-index: 100;
 }
 
-.button .icono:hover{
+.button15 .icono:hover{
     background-color: rgb(69, 225, 69);
     color: black;
 }
 
 .icono {
-    display: flex;
-    font-size: 20px;
+    position: absolute;
+    text-align: center;
+    font-size: 25px;
 }

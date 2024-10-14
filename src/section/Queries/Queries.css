@@ -1,0 +1,39 @@
+.acordeon-item {
+    margin: 10px 0;
+    border: 1px solid #ddd;
+}
+
+.acordeon_titulo {
+    background-color: #f1f1f1;
+    cursor: pointer;
+    padding: 10px;
+    border: none;
+    text-align: left;
+    width: 100%;
+    color: black;
+    font-size: 15px;
+}
+
+.acordeon-conten {
+    padding: 10px;
+    background-color: #fafafa;
+}
+
+.buttomEnv {
+    width: 100%;
+    padding: 10px;
+    background-color: #5cdf60;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    opacity: 0.8;
+    transition: 0.7s all ease;
+}
+
+button:hover {
+    background-color: #4de954;
+    opacity: 10;
+    box-shadow: rgb(21, 255, 0) 0px 10px 30px -10px;
+    color: black;
+}

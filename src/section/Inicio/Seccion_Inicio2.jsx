@@ -60,7 +60,7 @@ export function Seccion_Inicio2() {
                             <label htmlFor="mensaje">Mensaje:</label>
                             <textarea id="mensaje" name="mensaje" rows="5" required></textarea>
                         </div>
-                        <button type="submit">Enviar</button>
+                        <button className="bottomEnv1" type="submit">Enviar</button>
                     </form>
                 </div>
             </div>

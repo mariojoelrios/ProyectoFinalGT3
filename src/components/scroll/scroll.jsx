@@ -28,7 +28,7 @@ export function Scroll() {
             {visible && (
                 <button
                     onClick={scrollTop}
-                    className="button"
+                    className="button15"
                     title="nos vamo pa arriba"
                     style={{
                         position: 'fixed',
